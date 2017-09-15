@@ -2,5 +2,6 @@ public class Main {
 
     public static void main(String[] args) {
 	System.out.print("My First Java code!!");
+	System.out.print("My First Java code!!");
     }
 }
